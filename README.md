@@ -1,6 +1,3 @@
-Project:					Chuying Zhaoshang shou ce
-Author:						Bingxing Xu \ Chengcheng Zhang
-CopyRight and Lience info:	WeiKeDe(Beijing) Inc.
 Documentation
 -------------
 
